@@ -50,7 +50,7 @@ public class Main {
                     addVehicle();  // Fixed spelling
                     break;
                 case 6:
-                    running = false;
+                    running = false
                     break;
                 default:
                     System.out.println("Invalid Entry, Please Try Again");
