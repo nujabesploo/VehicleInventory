@@ -141,7 +141,7 @@ public class Main {
                 found = true;
             }
         }
-
+        
         if (!found) {
             System.out.println("No vehicles found with that color.");
         }
