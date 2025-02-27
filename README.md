@@ -38,7 +38,6 @@ Here’s an example of the program in action:
 ### 🔎 Search by Make/Model  
 ![Search Example](path/to/search_screenshot.png)  
 
-*(Replace paths with actual screenshot locations when available.)*  
 
 ---
 
