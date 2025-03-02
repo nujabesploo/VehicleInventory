@@ -33,10 +33,12 @@ The **Vehicle Inventory Management System** is a Java-based console application 
 Here’s an example of the program in action:  
 
 ### 🚗 Vehicle Listing Output  
-![Vehicle List](path/to/vehicle_list_screenshot.png)  
+<img src="https://github.com/user-attachments/assets/c1607910-2b6c-420a-bdb6-5f3e2bea104a" alt="Another screenshot of application" width="300x100"/>
 
 ### 🔎 Search by Make/Model  
-![Search Example](path/to/search_screenshot.png)  
+<img src="https://github.com/user-attachments/assets/bf49b2fd-a432-48d1-8c12-30b0d0f9f29a" alt="Screenshot of application" width="300x100"/>
+
+
 
 
 ---
